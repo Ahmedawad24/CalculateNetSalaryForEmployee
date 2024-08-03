@@ -12,3 +12,17 @@ D:\Courses\C# Mystery\Problem 1\ProblemSolving\CompanyApplication\obj\Debug\net8
 D:\Courses\C# Mystery\Problem 1\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.pdb
 D:\Courses\C# Mystery\Problem 1\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.genruntimeconfig.cache
 D:\Courses\C# Mystery\Problem 1\ProblemSolving\CompanyApplication\obj\Debug\net8.0\ref\CompanyApplication.dll
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.AssemblyInfoInputs.cache
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.AssemblyInfo.cs
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.csproj.CoreCompileInputs.cache
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.dll
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\refint\CompanyApplication.dll
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.pdb
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\bin\Debug\net8.0\CompanyApplication.exe
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\bin\Debug\net8.0\CompanyApplication.deps.json
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\bin\Debug\net8.0\CompanyApplication.runtimeconfig.json
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\bin\Debug\net8.0\CompanyApplication.dll
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\bin\Debug\net8.0\CompanyApplication.pdb
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\CompanyApplication.genruntimeconfig.cache
+D:\Courses\C# Mystery\Problem 2\ProblemSolving\CompanyApplication\obj\Debug\net8.0\ref\CompanyApplication.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\C# Mystery\\Problem 1\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj": {}
+    "D:\\Courses\\C# Mystery\\Problem 2\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\C# Mystery\\Problem 1\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj": {
+    "D:\\Courses\\C# Mystery\\Problem 2\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\C# Mystery\\Problem 1\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj",
+        "projectUniqueName": "D:\\Courses\\C# Mystery\\Problem 2\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj",
         "projectName": "CompanyApplication",
-        "projectPath": "D:\\Courses\\C# Mystery\\Problem 1\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj",
+        "projectPath": "D:\\Courses\\C# Mystery\\Problem 2\\ProblemSolving\\CompanyApplication\\CompanyApplication.csproj",
         "packagesPath": "C:\\Users\\A7med\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\C# Mystery\\Problem 1\\ProblemSolving\\CompanyApplication\\obj\\",
+        "outputPath": "D:\\Courses\\C# Mystery\\Problem 2\\ProblemSolving\\CompanyApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
